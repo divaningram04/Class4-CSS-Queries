@@ -1,0 +1,12 @@
+
+@media (min-width: 1000px) {
+    body {
+      background-color: #333333;
+    }
+  }
+
+@media (max-width: 999px) {
+    body {
+      background-color: #333333;
+    }
+  }
